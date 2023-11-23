@@ -88,6 +88,33 @@ O sistema deve ser intuitivo, ou seja, o usuário consegue usar o software sem n
 
 Sessões de dúvidas frequentes vêm sendo uma solução comum a esse tipo de problema e é justamente essa alternativa que os desenvolvedores do portal gov.br adotaram para seguir essa heurística. Apesar de ser uma boa solução, é importante frisar que ela pode não funcionar para dúvidas e problemas mais específicos.
 
+## 8. Prevensão de erros
+
+Essa heuristica versa sobre a necessidade de previnir que o usuário cometa erros. É possível rastrear os erros mais comuns e os mais de maiores impactos e, a partir disso, produzir soluções que visão mitigar esses erros.
+
+![Imagem 8: tela de autorização de uso de dados acessar  os serviços de segurança da conta](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem8.png)
+
+**Imagem 8: tela de autorização de uso de dados acessar  os serviços de segurança da conta**
+
+Como podemos ver na imagem 8 ao tentar acessar os serviços de segurança da conta o sistema informa quais são os dados que seram usados e se o usuário permite ou não o uso desses dados. Esse tipo de abordagem é usado para cada uma das sessões de serviços do site, o que é uma abordagem interessante, deixando claro quais são os dados usados com termos de autorização enxutos, evitando documentos massantes que acabam não sendo lendo pelo usuário, que os aceita sem saber quais serão as consequencias. Assim, temos uma solução inteligente para previnir erros com relação a permissões de usos indevidas
+
+## 9. Recuperação diante de erros
+
+O usuário deve entender qual o motivo de um eventual erro e como se recuperar dele. É importante que a interface não seja impeditiva e minimizar as frustrações por possíveis ações que gerem tais erros.
+
+![Imagem 9: login recusado por erro no cpf]
+(https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem9.png)
+
+**Imagem 9: login recusado por erro no cpf**
+
+No caso do gov.br temos uma solução bastante comum em diversos softwares quando há erros de login. Na Imagem 9 temos uma mensagem de erro "CPF inviado invalido" deixando claro qual foi o erro e o que o usuário deve corrigir. Além disso, temos o esforço de permitir outras foras de realizar o login, uma abordagem que pode contornar os problemas que o usuário vem enfrentando, diminuindo sua frustração.
+
+## 10. Controle e liberdade do usuário
+
+O usuário deve ter a possibilidade de realizar ações e desfaze-las tanto quanto for possível. No caso do nosso objeto de análise temos vários exemplos bons disso, como o histórico de navegação da Imagem 2 que permite retornar a páginas anteriores.
+
+Porém, não há opções de retirar alterações de uso de dados (Imagem 8), o que se torna um problema, pois deixa o usuário sem possibilidade de desfazer possíveis erros.
+
 ## Conclusão
 
 A análise da interface do portal gov.br à luz das Heurísticas de Nielsen revelou uma série de pontos fortes e áreas de melhoria. Em síntese, apesar de seguir muitos dos princípios, a adoção de um escopo inflado pelo sistema apresenta desafios notáveis na usabilidade. A sobrecarga visual e cognitiva, a complexidade na navegação e a falta de personalização inicial são preocupações que podem impactar a eficiência e a satisfação do usuário.
