@@ -22,6 +22,7 @@ Em contrapartida temos uma área de “Recomendados”, que apesar de ser uma se
 
 A visibilidade do status do sistema deve ser clara, ou seja, o sistema deve informar de forma efetiva ao usuário o que está acontecendo em tela. É importante que quem utiliza o sistema não se perca.
 
+
 ![https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem2.png](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem2.png)
 
 **Imagem 2: Tela de busca do portal gov.br (https://www.gov.br/pt-br/search?SearchableText=cpf)**
@@ -34,6 +35,7 @@ Essa heurística diz respeito à importância de manter um padrão visual consis
 
 O portal gov possui serviços de diferentes natureza, e opta por uma linguagem visual condizente à interfaces já consolidadas no ambiente digital, caso da Imagem 2 com relação a ferramentas de busca e da Imagem 3 com portais de notícias. Nesse sentido, nosso objeto de análise consegue seguir a correspondência entre sistema e a vida real, mantendo a consistência e identidade visual própria.
 
+
 ![Imagem 3: Sessão de noticias da pagina inicial do portal gov.br([https://www.gov.br/pt-br](https://www.gov.br/pt-br/search?SearchableText=cpf))](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem3.png)
 
 **Imagem 3: Sessão de noticias da pagina inicial do portal gov.br([https://www.gov.br/pt-br](https://www.gov.br/pt-br/search?SearchableText=cpf))**
@@ -41,15 +43,19 @@ O portal gov possui serviços de diferentes natureza, e opta por uma linguagem v
 Porém, há pontos no site em que é possível identificar flutuações em relação a identidade visual, o que pode causar ruído e influenciar na fluidez do uso do produto. Caso da Imagem 4 e 5, em que temos linguagens imagéticas distintas, enquanto na primeira temos uma abordagem mais sóbria com a utilização de ícones, no segundo temos o uso de imagens cartunescas.
 
 ![Imagem 4: Sessão de perfis e de vídeos da página inicial([https://www.gov.br/pt-br](https://www.gov.br/pt-br/search?SearchableText=cpf))](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem4.png)
+
+
 **Imagem 4: Sessão de perfis e de vídeos da página inicial([https://www.gov.br/pt-br](https://www.gov.br/pt-br/search?SearchableText=cpf))**
 
 ![Imagem 5: Sessão de navegação por categoria da página inicial([https://www.gov.br/pt-br](https://www.gov.br/pt-br/search?SearchableText=cpf))](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem5.png)
+
 
 **Imagem 5: Sessão de navegação por categoria da página inicial([https://www.gov.br/pt-br](https://www.gov.br/pt-br/search?SearchableText=cpf))**
 
 ## 4. Reconhecimento em vez de memorização
 
 É importante minimizar ao máximo que o sistema exija que o usuário se esforce por tarefas desnecessárias, como lembrar onde determinada informação estava ou onde ficava a barra de pesquisa.
+
 
 ![Imagem 6: meio da tela de pesquisa([https://www.gov.br/pt-br/search?SearchableText=cpf](https://www.gov.br/pt-br/search?SearchableText=cpf))](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem6.png)
 
@@ -73,6 +79,7 @@ Um escopo tão grande prejudica a eficiência, pois pela quantidade de serviços
 ## **7. Ajuda e documentação**
 
 O sistema deve ser intuitivo, ou seja, o usuário consegue usar o software sem necessitar de ajuda, mas é impossível criar soluções que funcionem intuitivamente para todas as pessoas. Por isso é importante reservar um espaço para documentação, caso o usuário possua dúvidas ou precise de ajuda.
+
 
 ![Imagem 7: Perguntas frequentes do portal gov.br
 ([https://www.gov.br/pt-br/por-dentro-do-govbr/perguntas-frequentes](https://www.gov.br/pt-br/por-dentro-do-govbr/perguntas-frequentes))](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem7.png)
