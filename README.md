@@ -102,8 +102,7 @@ Como podemos ver na imagem 8 ao tentar acessar os serviços de segurança da con
 
 O usuário deve entender qual o motivo de um eventual erro e como se recuperar dele. É importante que a interface não seja impeditiva e minimizar as frustrações por possíveis ações que gerem tais erros.
 
-![Imagem 9: login recusado por erro no cpf]
-(https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem9.png)
+![Imagem 9: login recusado por erro no cpf](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem9.png)
 
 **Imagem 9: login recusado por erro no cpf**
 
