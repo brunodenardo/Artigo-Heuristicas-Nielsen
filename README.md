@@ -7,7 +7,7 @@ Criadas por Jakob Nielsen em 1994, a partir de anos em estudos de usabilidade, a
 
 Essa heurística trata da correspondência entre a “linguagem do software” e a “linguagem do usuário”, e aqui nos referimos tanto à linguagem verbal, escrita, quanto à linguagem não verbal, imagética, semiótica. O usuário deve ser capaz de compreender e usar o software sem que haja necessidade de treinamento, o sistema se adequa e se comunica sem dificuldade com o usuário e sua vivência. Nosso objeto de análise possui um grande desafio nesse sentido, como se comunicar de forma clara com usuários tão diversos?
 
-
+![**Imagem 1: Topo da página inicial do portal gov.br (https://www.gov.br/pt-br)**](https://github.com/brunodenardo/Artigo-Heuristicas-Nielsen/blob/main/Imagens/Imagem1.png)
 
 O gov.br é usado desde pessoas que querem abrir uma empresa até jornalistas que querem ter acesso a dados públicos. Isso se reflete na quantidade de links e informações que o site nos apresenta em sua página inicial (Imagem 1). É possível ver a partir do acesso a problemática da falta de público alvo, soluções interessantes para isso e outras nem tanto.  
 Temos na página inicial uma sessão de mais acessados o que denota uma preocupação com a heterogeneidade dos usuários e uma solução que visa atender boa parte dos usuários de forma fácil e rápida. Também há uma barra de pesquisa que pergunta “O que você procura” com uma lupa ao lado, tornando evidente que esse é o espaço em que usuário pode recorrer para acessar os diversos serviços do portal. Em ambos os casos o software comunica com figuras e instruções comuns à linguagem cotidiana.
